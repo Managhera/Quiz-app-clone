@@ -48,6 +48,18 @@
     margin-top: 10%;
     padding: 2rem;
   }
+  .container1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    padding: 2rem;
+  }
+
+  .new {
+    display: flex;
+    flex-direction: row;
+  }
   
   .container > * {
     width: 100%;

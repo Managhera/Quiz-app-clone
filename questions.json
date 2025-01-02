@@ -1,0 +1,322 @@
+[
+  {
+      "question": "Why do flamingos stand on one leg?",
+      "A": "To keep the other leg warm",
+      "B": "To confuse predators",
+      "C": "They’re practicing yoga",
+      "D": "They’re showing off",
+      "answer": "A"
+  },
+  {
+      "question": "What happens if you eat too much ice cream?",
+      "A": "You turn into a cone",
+      "B": "You get a brain freeze",
+      "C": "You start to melt",
+      "D": "You become a dessert critic",
+      "answer": "B"
+  },
+  {
+      "question": "What’s the purpose of a rainbow?",
+      "A": "To look pretty",
+      "B": "To guide leprechauns",
+      "C": "To confuse weather reporters",
+      "D": "To spread joy",
+      "answer": "D"
+  },
+  {
+      "question": "Why do elephants have trunks?",
+      "A": "To pack their luggage",
+      "B": "To smell everything",
+      "C": "To reach the cookie jar",
+      "D": "To trumpet loudly",
+      "answer": "B"
+  },
+  {
+      "question": "What’s a snail’s favorite sport?",
+      "A": "Slow-motion racing",
+      "B": "Sliming the track",
+      "C": "Shell stacking",
+      "D": "Leaf surfing",
+      "answer": "A"
+  },
+  {
+      "question": "Why do bees buzz?",
+      "A": "They forgot the words",
+      "B": "To scare flowers",
+      "C": "They’re humming their favorite tune",
+      "D": "It’s their nature",
+      "answer": "D"
+  },
+  {
+      "question": "What’s the most important tool for a time traveler?",
+      "A": "A watch",
+      "B": "A map of time",
+      "C": "A pair of sunglasses",
+      "D": "A snack",
+      "answer": "B"
+  },
+  {
+      "question": "Why do pancakes stack?",
+      "A": "They love company",
+      "B": "They’re shy alone",
+      "C": "To save space",
+      "D": "It’s a pancake law",
+      "answer": "C"
+  },
+  {
+      "question": "What’s a ghost’s favorite snack?",
+      "A": "Boo-berries",
+      "B": "Phantom fries",
+      "C": "Ectoplasmic popcorn",
+      "D": "Scare-mel apples",
+      "answer": "A"
+  },
+  {
+      "question": "Why do astronauts wear helmets?",
+      "A": "To look cool",
+      "B": "To breathe in space",
+      "C": "To keep their hair in place",
+      "D": "To scare aliens",
+      "answer": "B"
+  },
+  {
+      "question": "What do you call a group of cows playing instruments?",
+      "A": "A moosical band",
+      "B": "Beef harmonies",
+      "C": "Milk rockers",
+      "D": "Barnyard symphony",
+      "answer": "A"
+  },
+  {
+      "question": "Why do stars love the night?",
+      "A": "Because they shine brighter",
+      "B": "They’re scared of the sun",
+      "C": "It’s their bedtime story time",
+      "D": "They can play hide and seek",
+      "answer": "A"
+  },
+  {
+      "question": "Why do balloons fly away when you let them go?",
+      "A": "They’re chasing clouds",
+      "B": "They love freedom",
+      "C": "They’re allergic to hands",
+      "D": "They want to explore the sky",
+      "answer": "D"
+  },
+  {
+      "question": "What’s a frog’s favorite type of music?",
+      "A": "Hip-hop",
+      "B": "Ribbit rock",
+      "C": "Amphibian blues",
+      "D": "Pond jazz",
+      "answer": "A"
+  },
+  {
+      "question": "What’s the best way to become invisible?",
+      "A": "Wear camouflage",
+      "B": "Blend into the background",
+      "C": "Ask a wizard for help",
+      "D": "Just believe you are",
+      "answer": "C"
+  },
+  {
+      "question": "Why don’t trees ever get lost?",
+      "A": "They have roots",
+      "B": "They don’t travel",
+      "C": "They use the sun as a compass",
+      "D": "They ask birds for directions",
+      "answer": "A"
+  },
+  {
+      "question": "What happens when you press all the buttons in an elevator?",
+      "A": "It becomes a disco",
+      "B": "You visit every floor",
+      "C": "It freezes in place",
+      "D": "A robot scolds you",
+      "answer": "B"
+  },
+  {
+      "question": "Why do monkeys love bananas?",
+      "A": "They’re sweet and tasty",
+      "B": "They fit their hands perfectly",
+      "C": "They’re easy to peel",
+      "D": "They’re monkey tradition",
+      "answer": "A"
+  },
+  {
+      "question": "Why do pirates always say 'Arrr'?",
+      "A": "It’s their secret language",
+      "B": "It scares sharks",
+      "C": "They forgot other words",
+      "D": "It’s fun to say",
+      "answer": "D"
+  },
+  {
+      "question": "What’s the purpose of a wishbone?",
+      "A": "To make wishes come true",
+      "B": "To decorate turkeys",
+      "C": "To confuse scientists",
+      "D": "To hold the turkey together",
+      "answer": "A"
+  },
+  {
+    "question": "If you could be any vegetable, which one would you be?",
+    "A": "Carrot",
+    "B": "Potato",
+    "C": "Broccoli",
+    "D": "Onion",
+    "answer": "B"
+},
+{
+    "question": "Why did the chicken cross the road?",
+    "A": "To get to the other side",
+    "B": "Because it was bored",
+    "C": "To visit its friend",
+    "D": "It didn’t, it teleported",
+    "answer": "A"
+},
+{
+    "question": "What’s the best way to catch a unicorn?",
+    "A": "Use a rainbow net",
+    "B": "Offer glitter",
+    "C": "Hide in a cupcake shop",
+    "D": "Call its name three times",
+    "answer": "B"
+},
+{
+    "question": "What’s the official language of penguins?",
+    "A": "Quackish",
+    "B": "Ice-lish",
+    "C": "Penguinese",
+    "D": "Squawkish",
+    "answer": "C"
+},
+{
+    "question": "What do cats really think about humans?",
+    "A": "They’re giant food dispensers",
+    "B": "They’re the best cuddle buddies",
+    "C": "They exist to serve us",
+    "D": "They don’t think at all",
+    "answer": "A"
+},
+{
+    "question": "What happens if you water a plastic plant?",
+    "A": "It grows",
+    "B": "It melts",
+    "C": "It stays the same",
+    "D": "It becomes real",
+    "answer": "C"
+},
+{
+    "question": "Why don’t robots ever cry?",
+    "A": "They’re too busy calculating",
+    "B": "They have no feelings",
+    "C": "They’re waterproof",
+    "D": "They’re made of metal",
+    "answer": "D"
+},
+{
+    "question": "What’s the main ingredient in moon cheese?",
+    "A": "Lunar milk",
+    "B": "Meteor dust",
+    "C": "Cheese from Earth",
+    "D": "A secret recipe",
+    "answer": "A"
+},
+{
+    "question": "What’s the best way to communicate with aliens?",
+    "A": "Send a tweet",
+    "B": "Use a flashlight",
+    "C": "Speak in binary",
+    "D": "Dance like you mean it",
+    "answer": "C"
+},
+{
+    "question": "What happens when you tickle a dragon?",
+    "A": "It sneezes fire",
+    "B": "It giggles",
+    "C": "It flies away",
+    "D": "It turns into a lizard",
+    "answer": "A"
+},
+{
+    "question": "What do clouds taste like?",
+    "A": "Cotton candy",
+    "B": "Marshmallows",
+    "C": "Water",
+    "D": "Dreams",
+    "answer": "B"
+},
+{
+    "question": "Why do dogs wag their tails?",
+    "A": "To create wind",
+    "B": "To charge their batteries",
+    "C": "They’re happy",
+    "D": "They’re signaling aliens",
+    "answer": "C"
+},
+{
+    "question": "Why do squirrels bury nuts?",
+    "A": "For winter snacks",
+    "B": "To grow trees",
+    "C": "To prank other squirrels",
+    "D": "They forget they did it",
+    "answer": "A"
+},
+{
+    "question": "What’s the fastest way to make toast?",
+    "A": "Yell at bread",
+    "B": "Use a blowtorch",
+    "C": "Microwave it",
+    "D": "Ask a chef",
+    "answer": "B"
+},
+{
+    "question": "What do fishes dream about?",
+    "A": "Bigger ponds",
+    "B": "Flying in the air",
+    "C": "Finding Nemo",
+    "D": "Winning gold medals",
+    "answer": "B"
+},
+{
+    "question": "Why do astronauts float in space?",
+    "A": "There’s no gravity",
+    "B": "Their shoes are too light",
+    "C": "Space magic",
+    "D": "They have helium backpacks",
+    "answer": "A"
+},
+{
+    "question": "Why do stars twinkle?",
+    "A": "They’re winking at us",
+    "B": "They’re having a party",
+    "C": "Atmospheric distortion",
+    "D": "They’re shy",
+    "answer": "C"
+},
+{
+    "question": "What’s the most common hobby of vampires?",
+    "A": "Reading books",
+    "B": "Biting necks",
+    "C": "Flying around",
+    "D": "Collecting sunscreen",
+    "answer": "B"
+},
+{
+    "question": "What’s the best way to start a conversation with a robot?",
+    "A": "Ask for Wi-Fi",
+    "B": "Say 'Hello World!'",
+    "C": "Talk in binary",
+    "D": "Offer an oil can",
+    "answer": "B"
+},
+{
+    "question": "Why do spiders spin webs?",
+    "A": "To catch food",
+    "B": "For decoration",
+    "C": "To make hammocks",
+    "D": "To confuse humans",
+    "answer": "A"
+}
+]

@@ -14,10 +14,10 @@
 
 * {
 	color: #FEFEFE;
-	font-family: 'Share Tech Mono', monospace;
+	letter-spacing: 2px;
 }
 button {
-	border-radius: 10px;
+	border-radius: 30px;
 	border: 3px solid transparent;
 	padding: 0.5rem 1rem;
 	background: rgba(0,0,0,0.5);
@@ -31,7 +31,7 @@ html {
 	background: #000;
 }
 body {
-	background: url(../img/background.jpg) no-repeat center center fixed; 
+	background-image: url("../img/b-g.jpg") no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -43,10 +43,14 @@ header {
 .title {
 	margin-left: 1rem;
 }
+h1{
+	color: yellow;
+	font-size: 45px;
+}
 .sub-title {
 	font-size: 1rem;
-	color: #DDD;
-	margin-left: 1rem;
+	color: #6cbd0f;
+	margin-left: 2rem;
 }
 /******* MAIN CONTENT *******/
 .quiz-wrapper {
@@ -54,18 +58,17 @@ header {
 	flex-direction: column;
 	flex-grow: 1;
 	width: 100%;
-	height: 90%;
+	height: 100%;
 }
-.question-wrapper {
-	border-radius: 10px;
-}
+
 .question {
 	padding: 3rem;
 	background: rgba(0,0,0,0.3);
 	border-radius: 10px;
+	font-size: 19px;
 }
 .code pre {
-	font-size: 1.25em;
+	font-size: 15px;
 	color: #22FF44;
 
 }
@@ -89,7 +92,8 @@ header {
 }
 .answer-btn {
 	color: #fefefe;
-	height: auto;
+	height: 100px;
+	width: 600px;
 	cursor: pointer;
 	font-size: 1.5rem;
 	background: rgba(0,0,0,0.5);
@@ -97,8 +101,25 @@ header {
 }
 button {
 	cursor: pointer;
-    margin : 0 auto;
-	border-radius: 10px;
+    margin : 10px;
+	border-radius: 30px;
+	height: 60px;
+	width: 200px;
+}
+.btnn{
+	height: 40px;
+	width: 130px;
+	border: 2px solid rgb(255, 0, 0);
+	border-radius: 30px;
+	margin-left: 100px;
+}
+button a{
+	font-size: 18px;
+	text-decoration: none;
+	color: rgb(255, 255, 255);
+}
+.btnn:hover{
+	border: 3px solid rgba(92, 221, 18, 0.637);
 }
 .answer-btn.selected {
 	background: rgba(255,255,255,0.15);
@@ -125,7 +146,7 @@ button {
 
 
 .continue-btn {
-	background: rgba(247, 230, 116, 0.75);
+	background: rgba(29, 48, 218, 0.966);
 }
 
 /******* FOOTER *******/
